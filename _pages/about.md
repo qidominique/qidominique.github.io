@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: qi.wu@uconn.edu
+subtitle: 吴琪 /u tçɪ/ qi.wu@uconn.edu
 
 profile:
   align: right
