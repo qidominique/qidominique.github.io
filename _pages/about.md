@@ -23,7 +23,7 @@ Hi there! My name is WU Qi. I go by Qi or Dominique.
 
 I am a first-year PhD student in Linguistics at University of Connecticut. I work on Syntax and its interface with Morphology and Pragmatics. 
 
-You can find my [CV](https://drive.google.com/file/d/1BugE9LCbHaJQa_WkYQlRdiu1W7ihvZSF/view?usp=drive_link) here.
+This website and me myself are both under construction, so please trash everything you see here :) 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
