@@ -2,16 +2,16 @@
 layout: about
 title: About
 permalink: /
-subtitle: 吴琪 /u tçɪ/ qi.wu@uconn.edu she/her/hers
+subtitle: 吴琪 u tçɪ/ qi.wu@uconn.edu she/her/hers
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Herbst Hall, Room 371</p>
+    {<p>Herbst Hall, Room 371</p>
     <p>365 Fairfield Way, Unit 1145</p>
-    <p>Storrs, CT, 06269-1145</p>
+    <p>Storrs, CT, 06269-1145</p>; font-size=0.8em}
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
