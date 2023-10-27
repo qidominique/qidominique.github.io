@@ -1,5 +1,5 @@
 ---
-layout: bout
+layout: about
 title: About
 permalink: /
 subtitle: qi.wu@uconn.edu
